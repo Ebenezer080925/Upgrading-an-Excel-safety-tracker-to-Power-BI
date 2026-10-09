@@ -9,3 +9,5 @@
     -Audited the Excel logic and corrected inconsistent ranges and labels
 
  Tools: Power BI, DAX, Power Query, Excel.
+
+ ![]()  ![]()
